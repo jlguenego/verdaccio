@@ -1,5 +1,14 @@
 # Change Log
 
+## 12.0.0-next-7.14
+
+### Patch Changes
+
+- 253cc13: feat: add tarball details for published packages
+  - @verdaccio/core@7.0.0-next-7.14
+  - @verdaccio/url@12.0.0-next-7.14
+  - @verdaccio/utils@7.0.0-next-7.14
+
 ## 12.0.0-next-7.13
 
 ### Patch Changes
